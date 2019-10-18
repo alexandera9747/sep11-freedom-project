@@ -1,8 +1,10 @@
 # Entry 1
 
 As a kid i was very passionate about cars and how they work. I used to play with toy cars and watch youtube videos on how cars were built, updates on them and how they affect the enviorment and how they are improving in making motor vehicles cleaner and more eviormnetally friendly. People that should be aware of these changes revolve around folks between the ages of 11 to 35. I would be informing workers of the automotive industry about new changes and giving pieces of knowledge to kids who have intrest in motor vehicles. According to the webste caranddriver.com they state that new motor companys such as Tesla are changing the car industries by the second. They sell cars that are all electric, this is improving the enviorment by creating less pollution. Other manufacturers such as Porshce and Mclaren make their sports cars have to different modes eco and gas. They can go from a gas powered car to an all electric car. This also helps the enviorment. 
+
 Although this is very interesting to know about and is meant to be researched more on, there are still many ways the automotive industry is helping improve the eniorment. Such as, using 3d printed models to create car designs instead of clay, that way they keep earths material safe and use an easier and cheaper to get material to make these designs. 
 Researching about all this information could be a hassle so, i have thought about creating a website that gives you notification about news in the car industry and keeps you updated about how the enviorment is going to become better from these innovations.
+
 As a result, i will be informing and helping in way, and this would create a better understanding about the automotive industry. And to add a little none society based information. I will create a section where you can search up any car and see the specs on that certain vehicle. I can't wait to get started. 
 
 [Home](../README.md)
